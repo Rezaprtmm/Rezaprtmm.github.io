@@ -188,7 +188,7 @@ body {
   #hero {
     width: 100%;
     height: 100vh;
-    background: url("/images/R.jpg") top center;
+    background: url("/images/parallax_sunset.jpg") top center;
     background-size: cover;
   }
   #hero:before {
